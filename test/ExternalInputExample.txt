@@ -1,0 +1,9 @@
+Arthur
+Ford
+Tricia
+Arthur,Ford,42
+BANK,Arthur,5000
+Ford,Tricia,85
+Arthur,Tricia,560
+BANK,Ford,1000
+BANK,Tricia,800
