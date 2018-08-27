@@ -1,4 +1,4 @@
-Description of the Task
+Description of the Taskd
 
 Creating two applications which must communicate via sockets and will form a client server system where:
 
